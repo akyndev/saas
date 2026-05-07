@@ -88,6 +88,7 @@ h1 {
 
 export function buildSampleTimeline(brief: TutorialBrief): TutorialTimeline {
   const isDeep = brief.explanationDepth !== "important";
+  const repoName = brief.repoName.trim() || "motion-site";
 
   return {
     title: brief.title,
@@ -96,7 +97,7 @@ export function buildSampleTimeline(brief: TutorialBrief): TutorialTimeline {
     explanationDepth: brief.explanationDepth,
     estimatedMinutes: brief.targetMinutes,
     summary:
-      "This timeline is the MVP rehearsal format: terminal actions, code playback, browser preview, and voiceover segments stay tied together before MP4 rendering.",
+      `Generated from ${repoName}. This timeline is the MVP rehearsal format: terminal actions, code playback, browser preview, and voiceover segments stay tied together before MP4 rendering.`,
     steps: [
       {
         id: "step-1",

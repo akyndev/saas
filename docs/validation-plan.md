@@ -2,7 +2,7 @@
 
 ## Goal
 
-Validate whether repo-to-video tutorial generation saves enough time to become a real product.
+Validate whether TutorialLab saves enough tutorial production time to become a real product.
 
 ## Primary Validation User
 

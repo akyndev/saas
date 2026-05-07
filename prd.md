@@ -2,7 +2,7 @@
 
 ## Product Name
 
-Repo-to-Video Tutorial Studio
+TutorialLab
 
 ## One-Liner
 

@@ -13,4 +13,4 @@ Read in this order:
 
 ## Current Decision
 
-The first serious product direction is repo-to-video for individual coding creators, with developer-tool companies as a future expansion path.
+The first serious product direction is AI-generated coding tutorials for individual coding creators, with developer-tool companies as a future expansion path.

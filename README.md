@@ -1,4 +1,4 @@
-# Repo-to-Video Tutorial Studio
+# TutorialLab
 
 An AI system for turning a prompt and a working codebase into a narrated coding tutorial video.
 

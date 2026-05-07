@@ -6,6 +6,7 @@ export type ExplanationDepth = "important" | "every-line" | "course";
 
 export type TutorialBrief = {
   title: string;
+  repoName: string;
   prompt: string;
   stack: TutorialStack;
   recordingMode: RecordingMode;
